@@ -18,7 +18,7 @@ I'm a passionate Software Engineer with experience in Frontend Technologies and 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 <!--
 ## Featured Projects 💻
 
@@ -37,7 +37,7 @@ I'm a passionate Software Engineer with experience in Frontend Technologies and 
 ## Get in Touch 📬
 
 <!-- **[Personal Website / Blog]**(your_website_or_blog_link)-->
-- **[LinkedIn]**https://www.linkedin.com/in/musashaba/
-- **[Twitter]**https://x.com/walidshaba
+- [LinkedIn]https://www.linkedin.com/in/musashaba/
+- [Twitter]https://x.com/walidshaba
 
 
