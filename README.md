@@ -3,7 +3,11 @@
 
 ## About Me 🚀
 
-I'm a passionate Software Engineer with experience in Frontend Technologies and framework. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a passionate learner in the ALX Software Engineering program, on a journey to build real-world, impactful technology solutions.
+I chose software engineering because of its power to create, innovate, and solve meaningful problems. What drives me is a deep passion for technology, education, and community empowerment.
+
+✨ My inspiration: The endless potential of tech to break barriers and open opportunities — especially for underserved communities.
+
 
 - 🌱 Currently learning: **Python, Django and Databases **
 - 🔭 Working on: **Nigerian AirBnB Clone**
